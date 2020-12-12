@@ -1,0 +1,10 @@
+scipy==1.1.0
+numpy==1.18.5
+gevent==20.9.0
+Flask==1.1.2
+Werkzeug==1.0.1
+librosa==0.8.0
+matplotlib==3.3.3
+soundfile==0.10.3.post1
+torch==1.7.0
+torchvision==0.8.1
